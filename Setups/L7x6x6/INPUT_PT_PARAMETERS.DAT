@@ -1,0 +1,6 @@
+Dump_interval 100000
+N_dumps 60
+Output_trj 0
+Output_energy 1
+Output_spin_config 1
+Swap_interval  20000
